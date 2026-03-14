@@ -24,9 +24,7 @@ The project integrates several key components:
 - **Ensemble learning methods** such as Soft Voting and Late Fusion to improve model robustness  
 - **Explainable AI techniques** (feature importance, permutation importance, and SHAP analysis) to interpret model predictions  
 
-Using a dataset of **1,374 samples with 21 health-related features**, the final system achieved approximately **ROC-AUC ≈ 0.71**, demonstrating the potential of machine learning models to detect patterns associated with sleep apnea risk.
-
-The results highlight the importance of **cardiovascular indicators, sleep quality metrics, and lifestyle factors** in predicting apnea risk. Although the model shows promising predictive performance for research applications, additional data and clinical validation are required before real-world deployment.
+Using a dataset of **1,374 samples with 21 health-related features**, the final system achieved approximately **ROC-AUC ≈ 0.71**, demonstrating the potential of machine learning models to detect patterns associated with sleep apnea risk. The results highlight the importance of **cardiovascular indicators, sleep quality metrics, and lifestyle factors** in predicting apnea risk. Although the model shows promising predictive performance for research applications, additional data and clinical validation are required before real-world deployment.
 
 Overall, this project demonstrates how **interpretable machine learning approaches can support early identification of sleep apnea risk while providing transparent insights into the contributing health factors.**
 
