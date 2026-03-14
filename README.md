@@ -243,8 +243,8 @@ SleepApnea-AI
 Clone the repository:
 
 ```
-git clone https://github.com/yourusername/SleepApnea-AI.git
-cd SleepApnea-AI
+git clone https://github.com/yourusername/SleepApnea-AI.git](https://github.com/UmmayMaimonaChaman/ApneaSense-EnsembleXAI-for-Explainable-Sleep-Apnea-Risk-Detection
+
 ```
 
 Install dependencies:
