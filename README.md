@@ -1,5 +1,5 @@
 # ApneaSense: EnsembleXAI for Explainable Sleep-Apnea Risk Detection
-💤An end-to-end **machine learning pipeline** for predicting **sleep apnea risk** using lifestyle, physiological, and cardiovascular indicators. 
+An end-to-end **machine learning pipeline** for predicting **sleep apnea risk** using lifestyle, physiological, and cardiovascular indicators. 
 The project integrates **ensemble learning, statistical analysis, and explainable AI (XAI)** to build interpretable predictive models.
 
 
@@ -288,7 +288,8 @@ The pipeline performs:
 ## ⚠️ Disclaimer
 
 This model is intended **for research purposes only** and should **not be used for clinical diagnosis without medical validation**.
-
+If anyone wants to use or edit please contact chamanmaimona@gmail.com
+Also, feel free to provide any suggesion for improvement.   :)
 ---
 
 ## 📚 Future Work
@@ -304,7 +305,7 @@ This model is intended **for research purposes only** and should **not be used f
 
 **Ummay Maimona Chaman**
 
-Machine Learning Research Project  
+Machine Learning Project  
 Sleep Apnea Risk Detection using Explainable AI and Ensemble
 
 ---
