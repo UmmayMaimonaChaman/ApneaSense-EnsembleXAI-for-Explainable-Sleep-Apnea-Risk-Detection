@@ -287,9 +287,9 @@ The pipeline performs:
 
 ## ⚠️ Disclaimer
 
-This model is intended **for research purposes only** and should **not be used for clinical diagnosis without medical validation**.
-If anyone wants to use or edit please contact chamanmaimona@gmail.com
+This model is intended **for research purposes only** and should **not be used for clinical diagnosis without medical validation**. If anyone wants to use or edit please contact chamanmaimona@gmail.com
 Also, feel free to provide any suggesion for improvement.   :)
+
 ---
 
 ## 📚 Future Work
